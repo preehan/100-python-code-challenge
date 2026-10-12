@@ -11,5 +11,3 @@ else:
      i+=1 
    else:
         print("Prime number")
- 
- 
